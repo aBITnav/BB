@@ -1,0 +1,19 @@
+<RelativeLayout
+
+    android:background="@drawable/ab"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+     >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="32dp"
+        android:text="LOADING..."
+
+        android:textColor="#0ff"
+        android:textSize="35sp" />
+</RelativeLayout>
